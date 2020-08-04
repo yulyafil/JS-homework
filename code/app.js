@@ -76,7 +76,7 @@
 
 //Задача 5
 
-const countryName = 'австраЛИЯ';
+const countryName = 'Австралия';
 
 const CANCELED_BY_USER = 'Отменено пользователем!';
 const NO_DELIVERY = 'В выбранную страну доставка недоступна.';
